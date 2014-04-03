@@ -1,0 +1,10 @@
+{
+  "name": "Octocast",
+  "version": "0.1.0",
+  "author": "Thanh Ky Quan <thanhquanky@gatech.edu>",
+  "description": "A simple sender/receiver tool for multicast via UDP",
+  "license": "MIT",
+  "dependencies": {
+    "optimist": "latest"
+  }
+}
